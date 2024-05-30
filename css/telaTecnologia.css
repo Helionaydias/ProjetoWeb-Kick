@@ -1,0 +1,63 @@
+/* body {
+  background-color: #121111;
+} */
+
+/* .offcanvas-body {
+  background-color: #222427;
+} */
+/* .container-fluid {
+  background-color: #222427;
+/* } */
+
+.t-perfil {
+  color: #69bd97;
+}
+.t-perfil:hover {
+}
+.lupa {
+}
+
+.rounded-circle {
+  width: 40px;
+  height: 40px;
+  object-fit: cover; /* Evita distorção */
+  border-radius: 50%;
+  margin-right: 10px;
+  object-position: center 20%; /* Ajusta a posição vertical da imagem */
+}
+
+.icon-calendar,
+.icon-bell {
+  font-size: 24px;
+  color: #69bd97;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+}
+
+.navbar-brand {
+  flex-grow: 1; /* O logo pode crescer para ocupar mais espaço se necessário */
+}
+
+.nav {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.circle {
+  border-radius: 20px;
+  width: 10px;
+  height: 10px;
+}
+
+.nav-link {
+  color: #69bd97;
+  margin-right: 20px;
+}
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(105, 189, 151, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
