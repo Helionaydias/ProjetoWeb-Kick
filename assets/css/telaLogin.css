@@ -51,6 +51,7 @@ body {
   color: var(--color-white);
   display: block;
   margin-bottom: 5px;
+  text-align: center;
 }
 .item,
 .botao,
