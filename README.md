@@ -27,5 +27,5 @@
 ![Perfil](https://github.com/Helionaydias/ProjetoWeb-Kick/assets/101341807/5d249733-5fb8-433a-b4ad-4090b779f5fa)
 
 
- [GitHub Pages](https://pages.github.com/)
+ [Figam](https://www.figma.com/design/O8f2Ba5aSwjSyWDehHyVAB/Untitled?node-id=0-1&t=Bzm3QDdgmUfbDfVB-0)
 
